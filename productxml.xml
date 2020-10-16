@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="productxsl.xsl"?>
+<product>
+	<category>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>general purpose, fast setting</description>
+			<name>MAGP402</name>
+			<similar>Plexus MA420FS</similar>
+			<worktime>1~3</worktime>
+			<peak>110C@3'20"</peak>
+			<fixture>3~6</fixture>
+			<tensile>1,200~1,500</tensile>
+			<elongation>5~10</elongation>
+			<shear>1,250~1,650</shear>
+			<color>off-white | blue, black, straw</color>
+			<viscosity>70~125 | 30~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>general purpose</description>
+			<name>MAGP405</name>
+			<similar>Plexus MA420/AO420</similar>
+			<worktime>4~7</worktime>
+			<peak>125C@9'15"</peak>
+			<fixture>15~20</fixture>
+			<tensile>2,500~3,000</tensile>
+			<elongation>25~50</elongation>
+			<shear>2,800~4,000</shear>
+			<color>off-white | blue, black, straw</color>
+			<viscosity>70~130 | 30~100</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>general purpose, medium worktime</description>
+			<name>MAGP422</name>
+			<similar>Plexus MA422</similar>
+			<peak>110C@30'00"</peak>
+			<worktime>16~25</worktime>
+			<fixture>35~40</fixture>
+			<tensile>2,500~3,000</tensile>
+			<elongation>65~95</elongation>
+			<shear>1,500~2,500</shear>
+			<color>off-white | blue, straw</color>
+			<viscosity>70~130 | 30~100</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>general purpose, long worktime</description>
+			<name>MAGP433</name>
+			<similar>Plexus MA425</similar>
+			<worktime>30~35</worktime>
+			<peak>71C@68'00"</peak>
+			<fixture>80~100</fixture>
+			<tensile>2,000~2,500</tensile>
+			<elongation>100~150</elongation>
+			<shear>1,500~2,500</shear>
+			<color>off-white | blue, straw</color>
+			<viscosity>70~130 | 30~100</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>highly thixotropic, ultraviolet resistant</description>
+			<name>MAHT215UR</name>
+			<similar>Plexus MA2015</similar>
+			<peak>132C@28'00"</peak>
+			<worktime>12~18</worktime>
+			<fixture>40~50</fixture>
+			<tensile>2,500~3,200</tensile>
+			<elongation>20~35</elongation>
+			<shear>1,500~2,200</shear>
+			<color>off-white | white</color>
+			<viscosity>175~210 | 35~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>highly thixotropic, ultraviolet resistant</description>
+			<name>MAHT230UR</name>
+			<similar>Plexus MA2030 white</similar>
+			<worktime>25~35</worktime>
+			<peak>132C@62'00"</peak>
+			<fixture>70~90</fixture>
+			<tensile>2,500~3,200</tensile>
+			<elongation>20~35</elongation>
+			<shear>1,500~2,200</shear>
+			<color>off-white | white</color>
+			<viscosity>175~210 | 35~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>highly thixotropic, long worktime</description>
+			<name>MAHT245</name>
+			<similar>Plexus MA2045</similar>
+			<worktime>40~50</worktime>
+			<peak>125C@89'00"</peak>
+			<fixture>100~120</fixture>
+			<tensile>3,000~3,500</tensile>
+			<elongation>85~120</elongation>
+			<shear>1,500~2,200</shear>
+			<color>off-white | blue</color>
+			<viscosity>175~210 | 35~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>highly thixotropic, low peak temperature, extra long worktime, good for large structures</description>
+			<name>MAHT290</name>
+			<similar>Plexus MA2090</similar>
+			<worktime>80~100</worktime>
+			<peak>127C@127'00"</peak>
+			<fixture>175~220</fixture>
+			<tensile>3,000~3,500</tensile>
+			<elongation>85~120</elongation>
+			<shear>1,500~2,200</shear>
+			<color>off-white | blue</color>
+			<viscosity>175~210 | 35~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>highly thixotropic, low shrinkage</description>
+			<name>MAHT230LS</name>
+			<similar>Plexus MA2230</similar>
+			<worktime>25~30</worktime>
+			<peak>113C@55'00"</peak>
+			<fixture>70~90</fixture>
+			<tensile>2,000~2,800</tensile>
+			<elongation>50~70</elongation>
+			<shear>1,500~2,300</shear>
+			<color>off-white | blue</color>
+			<viscosity>175~210 | 35~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>highly thixotropic, low shrinkage</description>
+			<name>MAHT245LS</name>
+			<similar>Plexus MA2245</similar>
+			<worktime>40~45</worktime>
+			<peak>109C@85'00"</peak>
+			<fixture>100~125</fixture>
+			<tensile>2,000~2,800</tensile>
+			<elongation>50~70</elongation>
+			<shear>15,00~2,300</shear>
+			<color>off-white | blue</color>
+			<viscosity>175~210 | 35~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>low modulus, tough, low temperature endurance</description>
+			<name>MALM910</name>
+			<similar>Plexus MA320</similar>
+			<worktime>8~12</worktime>
+			<peak>95C@21'00"</peak>
+			<fixture>25~30</fixture>
+			<tensile>2,000~2,500</tensile>
+			<elongation>100~130</elongation>
+			<shear>1,500~2,000</shear>
+			<color>off-white | blue, black, straw</color>
+			<viscosity>125~170 | 30~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>low modulus, good for crazing sensitive plastic</description>
+			<name>MALM905</name>
+			<similar>Plexus MA3940LH</similar>
+			<worktime>3~5</worktime>
+			<peak>84C@8'10"</peak>
+			<fixture>9~11</fixture>
+			<tensile>1,150~1,750</tensile>
+			<elongation>70~100</elongation>
+			<shear>1,200~1,600</shear>
+			<color>off-white | blue, straw</color>
+			<viscosity>100~155/30~70</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>low modulus, good for crazing sensitive plastic, longer worktime</description>
+			<name>MALM915</name>
+			<similar>Plexus MA3940</similar>
+			<worktime>11~15</worktime>
+			<peak>90C@22'00"</peak>
+			<fixture>25~30</fixture>
+			<tensile>2,000~2,500</tensile>
+			<elongation>120~170</elongation>
+			<shear>1,400~2,000</shear>
+			<color>off-white | blue, straw</color>
+			<viscosity>130~175 | 30~70</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>low odor</description>
+			<name>MALO405</name>
+			<similar>Plexus MA920</similar>
+			<worktime>4~6</worktime>
+			<peak>112C@10'00"</peak>
+			<fixture>13~20</fixture>
+			<tensile>1,600~2,200</tensile>
+			<elongation>75~100</elongation>
+			<shear>1,500~2,200</shear>
+			<color>off-white | blue, straw</color>
+			<viscosity>70~125 | 30~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>low odor version of MAGP433</description>
+			<name>MALO433</name>
+			<similar>Plexus MA925</similar>
+			<worktime>30~35</worktime>
+			<peak>88C@69'00"</peak>
+			<fixture>80~90</fixture>
+			<tensile>1,700~2,200</tensile>
+			<elongation>100~120</elongation>
+			<shear>13,00~1,700</shear>
+			<color>off-white | blue, straw</color>
+			<viscosity>70~125 | 30~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>low shrinkage</description>
+			<name>MALS105</name>
+			<similar>Plexus MA1020</similar>
+			<worktime>4~6</worktime>
+			<peak>118C@10'00"</peak>
+			<fixture>15~20</fixture>
+			<tensile>1,700~2,000</tensile>
+			<elongation>85~105</elongation>
+			<shear>1,200~1,600</shear>
+			<color>off-white | blue</color>
+			<viscosity>100~125 | 30~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>low shrinkage, medium worktime</description>
+			<name>MALS125</name>
+			<similar>Plexus MA1025</similar>
+			<worktime>20~25</worktime>
+			<peak>102C@40'00"</peak>
+			<fixture>40~45</fixture>
+			<tensile>1,700~2,000</tensile>
+			<elongation>85~105</elongation>
+			<shear>1,200~1,800</shear>
+			<color>off-white | blue</color>
+			<viscosity>175~210 | 30~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>primerless to metal, low halogen, fast setting, good for composite, metal, plastic</description>
+			<name>MAPL804LH</name>
+			<similar>Devcon Composite Welder FS</similar>
+			<worktime>2~4</worktime>
+			<peak>122C@6'15"</peak>
+			<fixture>15~18</fixture>
+			<tensile>2,000~3,000</tensile>
+			<elongation>90~120</elongation>
+			<shear>2,000~3,300</shear>
+			<color>off-white | blue</color>
+			<viscosity>100~130 | 30~70</viscosity>
+			</adhesive>
+
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>primerless to metal, low halogen, fast setting, good for composite, metal, plastic</description>
+			<name>MAPL805LH</name>
+			<similar>Plexus MA205HV</similar>
+			<worktime>3~5</worktime>
+			<peak>150C@8'00"</peak>
+			<fixture>7~9</fixture>
+			<tensile>2,000~2,500</tensile>
+			<elongation>20~45</elongation>
+			<shear>1,800~2,500</shear>
+			<color>off-white | blue</color>
+			<viscosity>100~130 | 30~70</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>primerless to metal</description>
+			<name>MAPL805</name>
+			<similar>Plexus MA830</similar>
+			<worktime>4~6</worktime>
+			<peak>135C@9'30"</peak>
+			<fixture>15~25</fixture>
+			<tensile>2,000~2,500</tensile>
+			<elongation>30~55</elongation>
+			<shear>2,000~3,000</shear>
+			<color>gray | blue</color>
+			<viscosity>80~125 | 30~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>primerless to metal, medium worktime</description>
+			<name>MAPL815</name>
+			<similar>Plexus MA832</similar>
+			<worktime>12~18</worktime>
+			<peak>126C@33'00"</peak>
+			<fixture>55~60</fixture>
+			<tensile>2,500~3,000</tensile>
+			<elongation>30~55</elongation>
+			<shear>2,000~3,000</shear>
+			<color>gray | blue</color>
+			<viscosity>80~125 | 30~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>ultraviolet resistant</description>
+			<name>MAUR550</name>
+			<similar>Plexus MA550</similar>
+			<worktime>40~50</worktime>
+			<peak>110C@58'00"</peak>
+			<fixture>70~75</fixture>
+			<tensile>2,000~2,500</tensile>
+			<elongation>25~40</elongation>
+			<shear>1,200~1,800</shear>
+			<color>off-white | white</color>
+			<viscosity>125~160 | 35~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>1:1</mixing>
+			<description>general purpose, fast</description>
+			<name>MAGP305</name>
+			<similar>Plexus MA300, Devcon Plastic Welder</similar>
+			<worktime>4~7</worktime>
+			<peak>160C@8'00"</peak>
+			<fixture>12~16</fixture>
+			<tensile>2,500~3,000</tensile>
+			<elongation>5~15</elongation>
+			<shear>3,000~3,800</shear>
+			<color>off-white | black, straw</color>
+			<viscosity>40~80 | 30~90</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>1:1</mixing>
+			<description>general purpose, enhanced for hard-to-bond plastics</description>
+			<name>MAGP315</name>
+			<similar>Plexus MA310, Devcon Plastic Welder II</similar>
+			<worktime>14~17</worktime>
+			<peak>135C@19'30"</peak>
+			<fixture>40~50</fixture>
+			<tensile>3,200~4,500</tensile>
+			<elongation>5~15</elongation>
+			<shear>3,000~3,500</shear>
+			<color>off-white | straw</color>
+			<viscosity>40~80 | 30~90</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>1:1</mixing>
+			<description>general purpose, enhanced for hard-to-bond plastics</description>
+			<name>MAGP315GY</name>
+			<similar>Plexus MA330</similar>
+			<worktime>14~17</worktime>
+			<peak>136C@18'00"</peak>
+			<fixture>30~45</fixture>
+			<tensile>3,200~4,500</tensile>
+			<elongation>5~15</elongation>
+			<shear>3,000~3,500</shear>
+			<color>white | black</color>
+			<viscosity>40~80 | 30~90</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>1:1</mixing>
+			<description>general purpose, long worktime</description>
+			<name>MAHT530</name>
+			<similar>Plexus MA530</similar>
+			<worktime>30~40</worktime>
+			<peak>110C@88'00"</peak>
+			<fixture>90~150</fixture>
+			<tensile>2,500~3,500</tensile>
+			<elongation>85~150</elongation>
+			<shear>1,700~2,500</shear>
+			<color>white | black</color>
+			<viscosity>125~180 | 160~215</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>1:1</mixing>
+			<description>general purpose, longer worktime</description>
+			<name>MAHT560</name>
+			<similar>Plexus MA560-1</similar>
+			<worktime>55~65</worktime>
+			<peak>120C@140'00"</peak>
+			<fixture>220~250</fixture>
+			<tensile>2,500~3,000</tensile>
+			<elongation>130~150</elongation>
+			<shear>1,600~2,400</shear>
+			<color>white | black, white</color>
+			<viscosity>145~185 | 160~205</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>1:1</mixing>
+			<description>general purpose, extra long worktime</description>
+			<name>MAHT590</name>
+			<similar>Plexus MA590</similar>
+			<worktime>90~105</worktime>
+			<peak>78C@260'00"</peak>
+			<fixture>250~350</fixture>
+			<tensile>2,000~2,500</tensile>
+			<elongation>130~150</elongation>
+			<shear>1,500~2,200</shear>
+			<color>white | black, white</color>
+			<viscosity>140~230 | 160~205</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>1:1</mixing>
+			<description>primerless to metal, good for galvanized metal</description>
+			<name>MAPL8110</name>
+			<similar>Plexus MA8110</similar>
+			<worktime>8~12</worktime>
+			<peak>142C@17'00"</peak>
+			<fixture>35~50</fixture>
+			<tensile>3,000~3,600</tensile>
+			<elongation>35~70</elongation>
+			<shear>2,200~3,000</shear>
+			<color>off-white | gray</color>
+			<viscosity>40~80 | 30~80</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>1:1</mixing>
+			<description>primerless to metal, medium worktime, good for galvanized metal</description>
+			<name>MAPL8120</name>
+			<similar>Plexus MA8120</similar>
+			<worktime>18~22</worktime>
+			<peak>136C@34'30"</peak>
+			<fixture>70~90</fixture>
+			<tensile>2,500~3,000</tensile>
+			<elongation>45~75</elongation>
+			<shear>2,200~3,000</shear>
+			<color>off-white | gray</color>
+			<viscosity>40~80 | 50~100</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>low odor, non-flammable</description>
+			<name>DPMA8805NF</name>
+			<similar>3M DP8805NS Green/Gray</similar>
+			<worktime>4~6</worktime>
+			<peak>120C@6'16"</peak>
+			<fixture>6~8</fixture>
+			<tensile>1,600~1,800</tensile>
+			<elongation>6~9</elongation>
+			<shear>3,000~3,900</shear>
+			<color>straw | blue, black</color>
+			<viscosity>35~55 | 10~20</viscosity>
+			</adhesive>
+
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>low odor, non-flammable</description>
+			<name>DPMA8810NF</name>
+			<similar>3M DP8810NS Green/Gray</similar>
+			<worktime>8~12</worktime>
+			<peak>108C@11'28"</peak>
+			<fixture>16~20</fixture>
+			<tensile>1,550~1,700</tensile>
+			<elongation>5~7</elongation>
+			<shear>3,000~3,600</shear>
+			<color>straw | blue, black</color>
+			<viscosity>35~55 | 10~20</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>low odor, non-flammable</description>
+			<name>DPMA8825NF</name>
+			<similar>3M DP8825NS Green</similar>
+			<worktime>21~25</worktime>
+			<fixture>40~48</fixture>
+			<tensile>1,250~1,600</tensile>
+			<elongation>5~7</elongation>
+			<shear>2,500~3,100</shear>
+			<color>straw | blue, black</color>
+			<viscosity>35~45 | 10~20</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>high shear strength, high impact and peel resistance</description>
+			<name>DPMA8405</name>
+			<similar>3M DP8405NS Green</similar>
+			<worktime>2~5</worktime>
+			<fixture>14~16</fixture>
+			<tensile>2,600~3,000</tensile>
+			<elongation>7~12</elongation>
+			<shear>3,700~4,400</shear>
+			<color>straw | blue</color>
+			<viscosity>55~75 | 25~35</viscosity>
+			</adhesive>
+
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>high shear strength, high impact and peel resistance</description>
+			<name>DPMA8410</name>
+			<similar>3M DP8410NS Green</similar>
+			<worktime>7~9</worktime>
+			<fixture>25~30</fixture>
+			<tensile>2,100~2,400</tensile>
+			<elongation>5~7</elongation>
+			<shear>3,400~3,900</shear>
+			<color>straw | blue</color>
+			<viscosity>55~75 | 25~35</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>acrylic</class>
+			<mixing>10:1</mixing>
+			<description>high shear strength, high impact and peel resistance</description>
+			<name>DPMA8425</name>
+			<similar>3M DP8425NS Green</similar>
+			<worktime>20~22</worktime>
+			<fixture>50~55</fixture>
+			<tensile>2,100~2,300</tensile>
+			<elongation>4~7</elongation>
+			<shear>3,400~3,800</shear>
+			<color>straw | blue</color>
+			<viscosity>70~100 | 25~35</viscosity>
+			</adhesive>
+		<adhesive>
+			<class>epoxy</class>
+			<mixing>1:1</mixing>
+			<description>general purpose</description>
+			<name>DPEA105</name>
+			<similar>3M DP100, Devcon Five Minute Epoxy Gel</similar>
+			<worktime>4~6</worktime>
+			<fixture>14~20</fixture>
+			<tensile>Not Test</tensile>
+			<elongation>Not Test</elongation>
+			<shear>500~1,000</shear>
+			<color>clear | clear</color>
+			<viscosity>7~15 | 8~15</viscosity>
+			</adhesive> 
+		<adhesive>
+			<class>epoxy</class>
+			<mixing>1:1</mixing>
+			<description>general purpose</description>
+			<name>DPEA110</name>
+			<similar>3M DP110</similar>
+			<worktime>8~12</worktime>
+			<peak>58C@13'18"</peak>
+			<fixture>30~40</fixture>
+			<tensile>Not Test</tensile>
+			<elongation>30~50</elongation>
+			<shear>1,500~2,200</shear>
+			<color>white | light amber, yellow</color>
+			<viscosity>5~7 | 5~7</viscosity>
+			</adhesive>
+	
+		</category>
+
+	<category>
+		<threadlocker> Loctite 243 </threadlocker>
+		</category>
+	<category>
+		<accessory> Mixing Tips </accessory>
+		</category>
+	<category>
+		<chemical> Thiophene </chemical>
+		</category>
+</product>
